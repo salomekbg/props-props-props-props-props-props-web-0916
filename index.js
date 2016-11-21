@@ -1,1 +1,10 @@
-const app = "I don't do much.";
+const FruitList = (props) => {
+  return (
+    hi
+    // <ul>
+    //   {props.fruitList.map((fruit) => {
+    //     return <li key={fruit}>{fruit}</li>
+    //   })}
+    // </ul>
+  )
+}
